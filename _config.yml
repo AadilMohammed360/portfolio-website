@@ -1,0 +1,14 @@
+title: Your Name | Python Full-Stack Developer
+description: Python full-stack developer building reliable, user-focused web applications.
+url: "https://aadilmohammed360.github.io"
+baseurl: "/portfolio-website"
+theme: minima
+
+header_pages: []
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: pretty
